@@ -235,6 +235,10 @@
   },
   "regionCode": "na",
   "countryCode": "MX",
+  "fiscalPeriod": {
+    "start": "2015-01-01",
+    "stop": "2015-12-31"
+  },
   "cityCode": "Federal",
   "title": "Mexico 2015 Budget",
   "name": "yearend_2015",
